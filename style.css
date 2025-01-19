@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.zxc{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+.qwe{
+    display: flex;
+    justify-content: center;
+}
+h6{
+    text-align: flex;
+    justify-content: center;
+}
+.trev{
+    display: flex;
+    justify-content: center;
+}
+h7{
+    text-align: flex;
+    justify-content: center;
+}
+.logo{
+    position: absolute;
+    top:0;
+    width: 50px;
+    height: 50px;
+    margin-left: 90%;
+    margin-top: 10px ;
+}
+img{
+    margin: 30px;
+}
